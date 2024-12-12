@@ -1,6 +1,6 @@
-# myapp
+#   Minha Calculadora
 
-A new Flutter project.
+Desenvolvimento de uma calculadora.
 
 ## Getting Started
 
